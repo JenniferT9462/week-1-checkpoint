@@ -1,1 +1,16 @@
-# week-1-checkpoint
+# Week 1 Checkpoint
+
+## My setup
+- Operating system: Windows
+- Editor: VsCode
+- Git version: git version 2.54.0.windows.1
+- Git name: Jennifer Tarleton
+- Git email: jennifertarleton@gmail.com
+
+## ACP log
+| # | What I changed | Commit message | Branch |
+|---|----------------|----------------|--------|
+| 1 | Made the repo on GitHub with a README | Initial commit | main |
+| 2 | Created my first page | Add first page | main |
+| 3 | Updated index.html | Add h2 and paragraph to index | main |
+| 4 | ... | .. | main |
