@@ -1,5 +1,7 @@
 # Week 1 Checkpoint
 
+Live Site: https://jennifert9462.github.io/week-1-checkpoint/
+
 ## My setup
 - Operating system: Windows
 - Editor: VsCode
