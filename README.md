@@ -19,3 +19,7 @@ Live Site: https://jennifert9462.github.io/week-1-checkpoint/
 | 5 | Added an About me section | Add about me section to index.html | main |
 | 6 | Added a list of things I like | Add things I like section with a unordered list | main |
 | 7 | Added my goals | Add my goals section to index.html | main |
+| 8 | Updated README ACP Log | Updated README | main |
+| 9 | Add link section to index.html | Add a link to a site I like on index.html | main |
+| 10 | Add link section to index.html | Added an image and citation to index.html | main |
+| 11 | Github pages to deploy site | Add live site link to README | main |
